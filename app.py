@@ -6,7 +6,7 @@ app = Flask(__name__)
 
 @app.route("/")
 def home():
-    return "Hello from my broken application!"
+   return "Hello from my DevOps CI/CD project!"
 
 
 if __name__ == "__main__":
